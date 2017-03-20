@@ -1,0 +1,271 @@
+/* Class = "UILabel"; text = " "; ObjectID = "0K7-4l-wc8"; */
+"0K7-4l-wc8.text" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1s9-0t-2q1"; */
+"1s9-0t-2q1.text" = "Label";
+
+/* Class = "UILabel"; text = "Network Development"; ObjectID = "1vD-Lq-bSe"; */
+"1vD-Lq-bSe.text" = "Développement réseau";
+
+/* Class = "UILabel"; text = "Design"; ObjectID = "2Ta-ry-KbD"; */
+"2Ta-ry-KbD.text" = "Design";
+
+/* Class = "UIButton"; normalTitle = "Save recipe!"; ObjectID = "3ww-xc-O9v"; */
+"3ww-xc-O9v.normalTitle" = "Enregistrer la recette!";
+
+/* Class = "UILabel"; text = " "; ObjectID = "3zk-q4-b4E"; */
+"3zk-q4-b4E.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Sous-Chef >"; ObjectID = "5RA-Kj-8Aj"; */
+"5RA-Kj-8Aj.normalTitle" = "Sous-Chef >";
+
+/* Class = "UIButton"; normalTitle = " Choose package >"; ObjectID = "5pw-jQ-ctt"; */
+"5pw-jQ-ctt.normalTitle" = " Choisir le type >";
+
+/* Class = "UIButton"; normalTitle = "Search recipes"; ObjectID = "6BD-li-Hpx"; */
+"6BD-li-Hpx.normalTitle" = "Rechercher des recettes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6bU-1a-7Vf"; */
+"6bU-1a-7Vf.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "  "; ObjectID = "7Hk-6T-aEm"; */
+"7Hk-6T-aEm.title" = "  ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "7uW-Mx-HEY"; */
+"7uW-Mx-HEY.text" = " ";
+
+/* Class = "UILabel"; text = "Choose cover color:"; ObjectID = "8UI-fZ-2f9"; */
+"8UI-fZ-2f9.text" = "La couleur de la couverture";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9EX-Q8-QcJ"; */
+"9EX-Q8-QcJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Andriy Yevseytsev                       "; ObjectID = "9m6-qp-NBG"; */
+"9m6-qp-NBG.text" = "Andriy Yevseytsev                       ";
+
+/* Class = "UIButton"; normalTitle = "ingredients and steps >"; ObjectID = "CD2-T3-l4c"; */
+"CD2-T3-l4c.normalTitle" = "Ingrédients et étapes >";
+
+/* Class = "UILabel"; text = "Oksana Prokhorovych"; ObjectID = "FXo-st-Ocw"; */
+"FXo-st-Ocw.text" = "Oksana Prokhorovych";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "GBp-Pr-4VB"; */
+"GBp-Pr-4VB.placeholder" = "Nom et prenom";
+
+/* Class = "UILabel"; text = " "; ObjectID = "GDb-Yl-YYu"; */
+"GDb-Yl-YYu.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Order my CookBook"; ObjectID = "HW4-cq-U5L"; */
+"HW4-cq-U5L.normalTitle" = "Commander le livre";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IVL-CG-2hy"; */
+"IVL-CG-2hy.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IjE-9G-085"; */
+"IjE-9G-085.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "photos >"; ObjectID = "Jku-L5-onU"; */
+"Jku-L5-onU.normalTitle" = "photos >";
+
+/* Class = "UIButton"; normalTitle = "Add recipe"; ObjectID = "MNv-fv-gCc"; */
+"MNv-fv-gCc.normalTitle" = "Ajouter la recette";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Neg-JY-FvN"; */
+"Neg-JY-FvN.text" = " ";
+
+/* Class = "UILabel"; text = "$24.95. TAX included."; ObjectID = "OGB-Eb-F7d"; */
+"OGB-Eb-F7d.text" = "$24.95";
+
+/* Class = "UITextField"; placeholder = "ZIP code"; ObjectID = "OxE-DJ-G4U"; */
+"OxE-DJ-G4U.placeholder" = "ZIP code";
+
+/* Class = "UILabel"; text = "Public recipe     "; ObjectID = "P7d-9l-mV8"; */
+"P7d-9l-mV8.text" = "Recette publique   ";
+
+/* Class = "UITextField"; placeholder = "recommended beverage"; ObjectID = "PBE-H4-9zc"; */
+"PBE-H4-9zc.placeholder" = "Boisson recommande";
+
+/* Class = "UINavigationItem"; title = "CookBook"; ObjectID = "Sm6-Dx-YdI"; */
+"Sm6-Dx-YdI.title" = "Livre de recettes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T4A-kb-jXh"; */
+"T4A-kb-jXh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TWG-Ab-ucZ"; */
+"TWG-Ab-ucZ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Address Line 1"; ObjectID = "Ubk-He-dt7"; */
+"Ubk-He-dt7.placeholder" = "Adresse";
+
+/* Class = "UIButton"; normalTitle = "Prep Cook >"; ObjectID = "V2z-Yl-1ml"; */
+"V2z-Yl-1ml.normalTitle" = "Cuisinier >";
+
+/* Class = "UILabel"; text = "Copyright © 2017 Excellence. All rights reserved."; ObjectID = "WS7-bt-P9H"; */
+"WS7-bt-P9H.text" = "Copyright © 2017 Excellence. All rights reserved.";
+
+/* Class = "UITextField"; placeholder = "CookBook Author (25 characters)"; ObjectID = "XVB-Z5-bcO"; */
+"XVB-Z5-bcO.placeholder" = "L’auteur du livre (25 symboles)
+";
+
+/* Class = "UITextField"; placeholder = "Phone (optional)"; ObjectID = "XvF-0t-K5s"; */
+"XvF-0t-K5s.placeholder" = "Telephone (pas obligatoire)";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "Y8B-9R-oud"; */
+"Y8B-9R-oud.placeholder" = "Pays";
+
+/* Class = "UILabel"; text = "Please, put the main photo on the top"; ObjectID = "Zwo-JP-eCl"; */
+"Zwo-JP-eCl.text" = "La place de la photo principale";
+
+/* Class = "UILabel"; text = "Eric Zhang"; ObjectID = "aOY-I0-UrN"; */
+"aOY-I0-UrN.text" = "Eric Zhang";
+
+/* Class = "UILabel"; text = "will be shown on the first page"; ObjectID = "auR-0Q-D0j"; */
+"auR-0Q-D0j.text" = "pour la première page du livre";
+
+/* Class = "UILabel"; text = "Idea and Development"; ObjectID = "bHf-rX-p1D"; */
+"bHf-rX-p1D.text" = "Idée et élaboration";
+
+/* Class = "UILabel"; text = "Starting from $24.95!"; ObjectID = "bSE-xn-Qt4"; */
+"bSE-xn-Qt4.text" = "En tout de $24.95";
+
+/* Class = "UIButton"; normalTitle = "Ship to address >"; ObjectID = "c36-rd-eKb"; */
+"c36-rd-eKb.normalTitle" = "Livrer a l’adresse >";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c3O-eS-ZDE"; */
+"c3O-eS-ZDE.text" = "Label";
+
+/* Class = "UILabel"; text = "Shipping address:"; ObjectID = "dX5-sM-8cn"; */
+"dX5-sM-8cn.text" = "Adresse de la livraison";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dy3-0N-Euu"; */
+"dy3-0N-Euu.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "e7X-cY-6mU"; */
+"e7X-cY-6mU.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "+direction"; ObjectID = "eUO-G6-XdZ"; */
+"eUO-G6-XdZ.normalTitle" = "+pas";
+
+/* Class = "UILabel"; text = "Order a cookbook with own recipes!"; ObjectID = "efY-7Y-fcG"; */
+"efY-7Y-fcG.text" = "Commandez un livre de recettes avec des recettes!";
+
+/* Class = "UIButton"; normalTitle = "See options and Order"; ObjectID = "f4J-XP-EJY"; */
+"f4J-XP-EJY.normalTitle" = "Choisir et commander";
+
+/* Class = "UILabel"; text = " "; ObjectID = "fOe-4X-04q"; */
+"fOe-4X-04q.text" = " ";
+
+/* Class = "UISegmentedControl"; gEN-On-doZ.segmentTitles[0] = "Easy"; ObjectID = "gEN-On-doZ"; */
+"gEN-On-doZ.segmentTitles[0]" = "Legerement";
+
+/* Class = "UISegmentedControl"; gEN-On-doZ.segmentTitles[1] = "Medium"; ObjectID = "gEN-On-doZ"; */
+"gEN-On-doZ.segmentTitles[1]" = "Pas dur";
+
+/* Class = "UISegmentedControl"; gEN-On-doZ.segmentTitles[2] = "Hard"; ObjectID = "gEN-On-doZ"; */
+"gEN-On-doZ.segmentTitles[2]" = "Lourdement";
+
+/* Class = "UILabel"; text = " "; ObjectID = "gaC-rF-aUN"; */
+"gaC-rF-aUN.text" = " ";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "h3X-ul-pl9"; */
+"h3X-ul-pl9.placeholder" = "Ville";
+
+/* Class = "UILabel"; text = "Vladislav Nadtochii "; ObjectID = "h9u-yU-IVp"; */
+"h9u-yU-IVp.text" = "Vladislav Nadtochii ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "hou-uv-mgR"; */
+"hou-uv-mgR.text" = " ";
+
+/* Class = "UILabel"; text = "8x8\" Softcover CookBook."; ObjectID = "iB9-OH-PzI"; */
+"iB9-OH-PzI.text" = "Une molle reliure (20*20cm)";
+
+/* Class = "UIButton"; normalTitle = "Executive Chef >"; ObjectID = "iuy-RV-PmJ"; */
+"iuy-RV-PmJ.normalTitle" = "Chef >";
+
+/* Class = "UILabel"; text = " "; ObjectID = "iyh-gM-Agv"; */
+"iyh-gM-Agv.text" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "izd-3n-fe7"; */
+"izd-3n-fe7.text" = "Label";
+
+/* Class = "UILabel"; text = "Yuliya Levchenko"; ObjectID = "jct-GD-Yc9"; */
+"jct-GD-Yc9.text" = "Yuliya Levchenko";
+
+/* Class = "UIButton"; normalTitle = "+ingredient"; ObjectID = "kIS-Qn-0Dd"; */
+"kIS-Qn-0Dd.normalTitle" = "+ingredients";
+
+/* Class = "UILabel"; text = "Perfect gift for anyone!"; ObjectID = "kja-20-YOj"; */
+"kja-20-YOj.text" = "Cadeau parfait pour n'importe qui!";
+
+/* Class = "UITextField"; placeholder = "Dish name"; ObjectID = "mtJ-l6-AMW"; */
+"mtJ-l6-AMW.placeholder" = "Nom du plat";
+
+/* Class = "UILabel"; text = " "; ObjectID = "nN8-QR-aFa"; */
+"nN8-QR-aFa.text" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "niR-RS-RCf"; */
+"niR-RS-RCf.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "nvy-Pq-IMH"; */
+"nvy-Pq-IMH.text" = " ";
+
+/* Class = "UILabel"; text = "Kostiantyn Kovtunenko "; ObjectID = "o80-q2-NKr"; */
+"o80-q2-NKr.text" = "Kostiantyn Kovtunenko ";
+
+/* Class = "UILabel"; text = "Serhiy Bilyy"; ObjectID = "r4C-8y-CcQ"; */
+"r4C-8y-CcQ.text" = "Serhiy Bilyy";
+
+/* Class = "UIButton"; normalTitle = "recommended beverage >"; ObjectID = "rcE-hg-te7"; */
+"rcE-hg-te7.normalTitle" = "boisson pour le plat >";
+
+/* Class = "UILabel"; text = "$69.95. TAX included."; ObjectID = "run-oG-Jsl"; */
+"run-oG-Jsl.text" = "$69.95";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "seL-hl-vVt"; */
+"seL-hl-vVt.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Address Line 2 (optional)"; ObjectID = "t1D-tK-osh"; */
+"t1D-tK-osh.placeholder" = "Appartement (pas obligatoire)";
+
+/* Class = "UITextField"; placeholder = "e-mail (for payment invoice)"; ObjectID = "tVH-Ph-S6C"; */
+"tVH-Ph-S6C.placeholder" = "E-Mail (pour l’envoi du paiement)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tlZ-LA-nsc"; */
+"tlZ-LA-nsc.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "E-mail (optional)"; ObjectID = "tny-m6-byq"; */
+"tny-m6-byq.placeholder" = "E-Mail (pas obligatoire)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u5d-kv-Q4W"; */
+"u5d-kv-Q4W.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "uyr-Bd-NOZ"; */
+"uyr-Bd-NOZ.text" = " ";
+
+/* Class = "UILabel"; text = "$34.95. TAX included."; ObjectID = "vqo-Qt-afo"; */
+"vqo-Qt-afo.text" = "$34.95";
+
+/* Class = "UILabel"; text = "10x10\" Linen cover CookBook."; ObjectID = "vw6-6W-JXO"; */
+"vw6-6W-JXO.text" = "Le livre d‘etoffe (25*25cm)";
+
+/* Class = "UILabel"; text = " "; ObjectID = "wAO-6O-pOU"; */
+"wAO-6O-pOU.text" = " ";
+
+/* Class = "UITextField"; placeholder = "Province or State (optional)"; ObjectID = "wCB-a0-DPf"; */
+"wCB-a0-DPf.placeholder" = "Region (pas obligatoire)";
+
+/* Class = "UIButton"; normalTitle = "My CookBook"; ObjectID = "whT-RF-ZlY"; */
+"whT-RF-ZlY.normalTitle" = "Mon livre de recettes";
+
+/* Class = "UILabel"; text = "10x10\" Leather cover CookBook with author name embossed in front. "; ObjectID = "xMH-Ll-Op0"; */
+"xMH-Ll-Op0.text" = "Le livre en cuir avec le nom evince de l’auteur sur la couverture (25*25 cm)
+";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "xsQ-SV-LYj"; */
+"xsQ-SV-LYj.title" = " ";
+
+/* Class = "UILabel"; text = "Translations"; ObjectID = "xx4-XF-Haj"; */
+"xx4-XF-Haj.text" = "Traductions";
+
+/* Class = "UIButton"; normalTitle = "Place order"; ObjectID = "yKz-g6-jTK"; */
+"yKz-g6-jTK.normalTitle" = "Placer la commande";

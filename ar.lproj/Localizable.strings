@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  Just Cook
+
+  Created by Excellence on 1/29/17.
+  Copyright © 2017 Andriy Yevseytsev. All rights reserved.
+*/
+
+"Please Enter the Dish Name" = "إدخال اسم الطبق";
+"Add Ingredient" = "إضافة مكون";
+"Name of ingredient" = "اسم مكون";
+"Quantity" = "كمية";
+"Please, add an ingredient" = "إضافة مكون";
+"Add Direction" = "إضافة خطوة طريقة العمل";
+"Name of direction" = "خطوة";
+"Recipe saved!" = "وصفة أنقذت!";
+
+"Easy" = "سهل";
+"Medium" = "متوسط";
+"Hard" = "صعب";
+"Ingredients" = "مكونات";
+"Directions" = "وصفة";
+"Best with - " = "يوصى مع - ";
+
+"Breakfast" = "فطور";
+"Appetizers & Snacks" = "مقبلات ووجبات خفيفة";
+"Fruits & Vegetables" = "فواكه وخضروات";
+"Meat & Poultry" = "لحوم ودواجن";
+"BBQ & Grilling" = "باربيكيو ومشويات";
+"Seafood & Sushi" = "مأكولات بحرية وسوشي";
+"Salads & Dressings" = "سلطات وتتبيلات";
+"Side Dishes & Grains" = "أطباق جانبية وحبوب";
+"Soups & Stews" = "شوربات ويخنات";
+"Pasta & Pizza" = "معكرونة وبيتزا";
+"Sandwiches & Burgers" = "سندويشاتوبرغر";
+"Bread & Bakery" = "خبز ومخابز";
+"Sauces & Gravy" = "صلصات ومرقات";
+"Beverages & Cocktails" = "وكوكتيلات مشروبات";
+"Pies & Cakes" = "فطائر وكعكات";
+"Cookies & Candies" = "كوكيز وسكاكر";
+"Desserts" = "حلويات";
+
+"5 mins" = "5 دقائق";
+"10 mins" = "10 دقائق";
+"15 mins" = "15 دقيقة";
+"30 mins" = "30 دقيقة";
+"45 mins" = "45 دقيقة";
+"1 hour" = "1 ساعة";
+"1 h 15 mins" = "1 ساعة و15 دقيقة";
+"1 h 30 mins" = "1ساعة و30 دقيقة";
+"1 h 45 mins" = "1 ساعة و45 دقيقة";
+"2 hours" = "2 ساعتان";
+"2 h 30 mins" = "ساعتان و30 دقيقة2 ";
+"3 hours" = "3 ساعات";
+"3 h 30 mins" = "3 ساعات و30 دقيقة";
+"4 hours" = "4 ساعات";
+"5 hours" = "5 ساعات";
+"6 hours" = "6 ساعات";
+"8 hours" = "8 ساعات";
+"12 hours" = "12 ساعة";
+"16 hours" = "16 ساعة";
+"24 hours" = "24 ساعة";
+"48 hours" = "48 ساعة";
+"72 hours" = "72 ساعة";
+
+"1 serving" = "1 حصة";
+"2 servings" = "2 حصتان";
+"3 servings" = "3 حصص";
+"4 servings" = "4 حصص";
+"6 servings" = "6 حصص";
+"9 servings" = "9 حصص";
+"12 servings" = "12 حصة";
+"16 servings" = "16 حصة";
+"24 servings" = "24 حصة";
+"36 servings" = "36 حصة";
+
+"No Recommended Beverage" = "مشروب لا يوصى";
+"Water" = "ماء";
+"Soda" = "ماء الغاز";
+"Tonic Water" = "ماء التونيك";
+"Soft Drink" = "مشروبات غازية";
+"Juice" = "عصير";
+"Nectar" = "نكتار";
+"Milk" = "حليب";
+"Coffee" = "قهوة";
+"Tea" = "شاي";
+"Cider" = "سيدر";
+"Wine" = "خمر";
+"Brandy" = "براندي";
+"Beer" = "بيرة";
+"Whisky" = "ويسكي";
+"Other" = "مشروب آخر";
+
+"Success!" = "قد تم أرسال طلبك! ";
+"Your order is processing, you will get payment email in 24 hours" = "! ستحصل على الفاتورة لدفع الطلب خلال 24 ساعة";
+
+"Need to login with Facebook for using publishing or searching recipes" = "تحتاج إلى تسجيل الدخول مع الفيسبوك لاستخدام هذه الميزة";
+"Internet is required for publishing or searching recipes" = "مطلوب بالإنترنت لاستخدام هذه الميزة";
+"Search by Name" = "البحث عن طريق الاسم";
+"Provide the Author Name!" = "أدخل اسم المؤلف!";
+"Provide the E-Mail for payment!" = "أدخل بريدك الإلكتروني لإرسال دفع!";
+"Name is required for shipping!" = "يجب ادخال اسم للتسليم!";
+"Address is required for shipping!" = "مطلوب عنوان التسليم!";
+"City is required for shipping!" = "مطلوب مدينة للشحن!";
+"ZIP code is required for shipping!" = "مؤشر يحتاج إلى تقديم!";
+"Country is required for shipping!" = "حاجة البلاد لتسليم!";

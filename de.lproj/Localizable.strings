@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  Just Cook
+
+  Created by Excellence on 1/29/17.
+  Copyright © 2017 Andriy Yevseytsev. All rights reserved.
+*/
+
+"Please Enter the Dish Name" = "Bitte geben Sie den Dish Name ein";
+"Add Ingredient" = "Zutaten hinzufügen";
+"Name of ingredient" = "Name des Inhaltsstoffs";
+"Quantity" = "Anzahl";
+"Please, add an ingredient" = "Bitte eine Zutat hinzufügen";
+"Add Direction" = "Richtung hinzufügen";
+"Name of direction" = "Name der Rezepturrichtung";
+"Recipe saved!" = "Rezept gespeichert!";
+
+"Easy" = "Einfach";
+"Medium" = "Mittel";
+"Hard" = "Hart";
+"Ingredients" = "Zutaten";
+"Directions" = "Das Rezept";
+"Best with - " = "Am besten mit - ";
+
+"Breakfast" = "Frühstück";
+"Appetizers & Snacks" = "Erfrischungen";
+"Fruits & Vegetables" = "Früchte und Gemüse";
+"Meat & Poultry" = "Fleisch und Geflügel";
+"BBQ & Grilling" = "Grill";
+"Seafood & Sushi" = "Seafood und Sushi";
+"Salads & Dressings" = "Salate";
+"Side Dishes & Grains" = "Garnishes";
+"Soups & Stews" = "Suppen und Eintöpfe";
+"Pasta & Pizza" = "Pasta und Pizza";
+"Sandwiches & Burgers" = "Sandwiches und Burger";
+"Bread & Bakery" = "Brot und Gebäck";
+"Sauces & Gravy" = "Soßen und Bratensoßen";
+"Beverages & Cocktails" = "Drinks und Cocktails";
+"Pies & Cakes" = "Torten und Kuchen";
+"Cookies & Candies" = "Kekse und Süßigkeiten";
+"Desserts" = "Desserts";
+
+"5 mins" = "5 minuten";
+"10 mins" = "10 minuten";
+"15 mins" = "15 minuten";
+"30 mins" = "30 minuten";
+"45 mins" = "45 minuten";
+"1 hour" = "1 stunde";
+"1 h 15 mins" = "1 st 15 min";
+"1 h 30 mins" = "1 st 30 min";
+"1 h 45 mins" = "1 st 45 min";
+"2 hours" = "2 stunden";
+"2 h 30 mins" = "2 st 30 min";
+"3 hours" = "3 stunden";
+"3 h 30 mins" = "3 st 30 min";
+"4 hours" = "4 stunden";
+"5 hours" = "5 stunden";
+"6 hours" = "6 stunden";
+"8 hours" = "8 stunden";
+"12 hours" = "12 stunden";
+"16 hours" = "16 stunden";
+"24 hours" = "24 stunden";
+"48 hours" = "48 stunden";
+"72 hours" = "72 stunden";
+
+"1 serving" = "1 portion";
+"2 servings" = "2 portionen";
+"3 servings" = "3 portionen";
+"4 servings" = "4 portionen";
+"6 servings" = "6 portionen";
+"9 servings" = "9 portionen";
+"12 servings" = "12 portionen";
+"16 servings" = "16 portionen";
+"24 servings" = "24 portionen";
+"36 servings" = "36 portionen";
+
+"No Recommended Beverage" = "Das Getränk ist nicht empfehlenswert";
+"Water" = "das Wasser";
+"Soda" = "das Sodawasser";
+"Tonic Water" = "das Tonic";
+"Soft Drink" = "das Sodagetränk";
+"Juice" = "die Saft";
+"Nectar" = "der Nektar";
+"Milk" = "die Milch";
+"Coffee" = "Kaffee";
+"Tea" = " das Tee";
+"Cider" = "der Apfelwein";
+"Wine" = "der Wein";
+"Brandy" = "der Brandy";
+"Beer" = "das Bier";
+"Whisky" = "der Whiskey";
+"Other" = "Andere";
+
+"Success!" = "Ihre Bestellung wurde gesendet!";
+"Your order is processing, you will get payment email in 24 hours" = "Die Rechnung kommt im Laufe von 24 Stunden";
+
+"Need to login with Facebook for using publishing or searching recipes" = "Melden Sie sich mit Facebook an, um diese Funktion zu nutzen";
+"Internet is required for publishing or searching recipes" = "Internet ist erforderlich, um diese Funktion zu nutzen";
+"Search by Name" = "Suche mit Name";
+"Provide the Author Name!" = "Geben Sie den Namen des Autors ein!";
+"Provide the E-Mail for payment!" = "Geben Sie die E-Mail für die Zahlung!";
+"Name is required for shipping!" = "Name wird für Verschiffen benötigt!";
+"Address is required for shipping!" = "Adresse ist für den Versand erforderlich!";
+"City is required for shipping!" = "Stadt wird für Verschiffen benötigt!";
+"ZIP code is required for shipping!" = "Postleitzahl ist für den Versand erforderlich!";
+"Country is required for shipping!" = "Land wird für Verschiffen benötigt!";

@@ -1,0 +1,120 @@
+/* 
+  Localizable.strings
+  Just Cook
+
+  Created by Excellence on 1/29/17.
+  Copyright © 2017 Andriy Yevseytsev. All rights reserved.
+*/
+
+"Please Enter the Dish Name" = "Введите название блюда";
+"Add Ingredient" = "Добавьте ингредиент";
+"Name of ingredient" = "Название ингредиента";
+"Quantity" = "Количество";
+"Please, add an ingredient" = "Добавьте ингредиент";
+"Add Direction" = "Добавьте шаг рецепта";
+"Name of direction" = "Шаг";
+"Recipe saved!" = "Рецепт сохранен!";
+
+"Easy" = "Легко";
+"Medium" = "Средне";
+"Hard" = "Тяжело";
+"Ingredients" = "Ингредиенты";
+"Directions" = "Рецепт";
+"Best with - " = "Рекомендуется с - ";
+
+"Breakfast" = "Завтраки";
+"Appetizers & Snacks" = "Закуски";
+"Fruits & Vegetables" = "Фрукты и Овощи";
+"Meat & Poultry" = "Мясо и Птица";
+"BBQ & Grilling" = "BBQ и Гриль";
+"Seafood & Sushi" = "Морепродукты & Суши";
+"Salads & Dressings" = "Салаты";
+"Side Dishes & Grains" = "Гарниры";
+"Soups & Stews" = "Супы и Тушеные Блюда";
+"Pasta & Pizza" = "Паста и Пицца";
+"Sandwiches & Burgers" = "Сэндвичи и Бургеры";
+"Bread & Bakery" = "Хлеб и Выпечка";
+"Sauces & Gravy" = "Соусы и Подливки";
+"Beverages & Cocktails" = "Напитки и Коктейли";
+"Pies & Cakes" = "Пироги и Торты";
+"Cookies & Candies" = "Печенье и Сладости";
+"Desserts" = "Десерты";
+
+"5 mins" = "5 минут";
+"10 mins" = "10 минут";
+"15 mins" = "15 минут";
+"30 mins" = "30 минут";
+"45 mins" = "45 минут";
+"1 hour" = "1 час";
+"1 h 15 mins" = "1 ч 15 мин";
+"1 h 30 mins" = "1 ч 30 мин";
+"1 h 45 mins" = "1 ч 45 мин";
+"2 hours" = "2 часа";
+"2 h 30 mins" = "2 ч 30 мин";
+"3 hours" = "3 часа";
+"3 h 30 mins" = "3 ч 30 мин";
+"4 hours" = "4 часа";
+"5 hours" = "5 часов";
+"6 hours" = "6 часов";
+"8 hours" = "8 часов";
+"12 hours" = "12 часов";
+"16 hours" = "16 часов";
+"24 hours" = "24 часа";
+"48 hours" = "48 часов";
+"72 hours" = "72 часа";
+
+"1 serving" = "1 порция";
+"2 servings" = "2 порции";
+"3 servings" = "3 порции";
+"4 servings" = "4 порции";
+"6 servings" = "6 порций";
+"9 servings" = "9 порций";
+"12 servings" = "12 порций";
+"16 servings" = "16 порций";
+"24 servings" = "24 порции";
+"36 servings" = "36 порций";
+
+"No Recommended Beverage" = "Напиток не рекомендуется";
+"Water" = "Вода";
+"Soda" = "Газированная вода";
+"Tonic Water" = "Тоник";
+"Soft Drink" = "Газированные напитки";
+"Juice" = "Сок";
+"Nectar" = "Нектар";
+"Milk" = "Молоко";
+"Coffee" = "Кофе";
+"Tea" = "Чай";
+"Cider" = "Сидр";
+"Wine" = "Вино";
+"Brandy" = "Бренди";
+"Beer" = "Пиво";
+"Whisky" = "Виски";
+"Other" = "Другое";
+
+"Success!" = "Ваш заказ получен!";
+"Your order is processing, you will get payment email in 24 hours" = "Вы получите чек на оплату заказа в течении 24 часов";
+
+"Need to login with Facebook for using publishing or searching recipes" = "Чтобы публиковать или искать рецепты необходимо авторизоваться через Facebook";
+"Internet is required for publishing or searching recipes" = "Чтобы публиковать или искать рецепты необходимо Интернет-подключение";
+"Search by Name" = "Поиск по Названию";
+"Provide the Author Name!" = "Введите имя Автора!";
+"Provide the E-Mail for payment!" = "Введите E-Mail для отправки платежа!";
+"Name is required for shipping!" = "Имя необходимо для доставки!";
+"Address is required for shipping!" = "Адрес необходим для доставки!";
+"City is required for shipping!" = "Город необходим для доставки!";
+"ZIP code is required for shipping!" = "Индекс необходим для доставки!";
+"Country is required for shipping!" = "Страна необходима для доставки!";
+
+"Standard (Prep Cook Only)" = "Стандартный (для Повара)";
+"Pearl (Sous-Chef Only)" = "Жемчужный (для Су-Шефа)";
+"Gold (Sous-Chef Only)" = "Золотой (для Су-Шефа)";
+"Red Wine (Sous-Chef Only)" = "Красное Вино (для Су-Шефа)";
+"Sky Blue (Sous-Chef Only)" = "Голубой (для Су-Шефа)";
+"Olive Green (Sous-Chef Only)" = "Оливковый (для Су-Шефа)";
+"Light Grey (Sous-Chef Only)" = "Светло-Серый (для Су-Шефа)";
+"White (Executive Chef Only)" = "Белый (для Шеф-Повара)";
+"Red (Executive Chef Only)" = "Красный (для Шеф-Повара)";
+"Royal Blue (Executive Chef Only)" = "Небесный (для Шеф-Повара)";
+"Brown (Executive Chef Only)" = "Коричневый (для Шеф-Повара)";
+"Midnight (Executive Chef Only)" = "Тёмно-синий (для Шеф-Повара)";
+"Black (Executive Chef Only)" = "Черный (для Шеф-Повара)";

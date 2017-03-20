@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  Just Cook
+
+  Created by Excellence on 1/29/17.
+  Copyright © 2017 Andriy Yevseytsev. All rights reserved.
+*/
+
+"Please Enter the Dish Name" = "输入菜名";
+"Add Ingredient" = "加配料";
+"Name of ingredient" = "配料名称";
+"Quantity" = "数量";
+"Please, add an ingredient" = "加配料";
+"Add Direction" = "加入食谱烹饪顺序";
+"Name of direction" = "顺序";
+"Recipe saved!" = "食谱保存！";
+
+"Easy" = "轻";
+"Medium" = "中";
+"Hard" = "重";
+"Ingredients" = "配料";
+"Directions" = "菜谱";
+"Best with - " = "建议 起 - ";
+
+"Breakfast" = "早餐";
+"Appetizers & Snacks" = "小吃";
+"Fruits & Vegetables" = "水果和蔬菜";
+"Meat & Poultry" = "肉类和禽类";
+"BBQ & Grilling" = "烧烤";
+"Seafood & Sushi" = "海鲜和寿司";
+"Salads & Dressings" = "色拉";
+"Side Dishes & Grains" = "主食";
+"Soups & Stews" = "汤和炖菜";
+"Pasta & Pizza" = "意式面条和比萨";
+"Sandwiches & Burgers" = "三明治和汉堡";
+"Bread & Bakery" = "面包和烘烤";
+"Sauces & Gravy" = "酱汁";
+"Beverages & Cocktails" = "饮料";
+"Pies & Cakes" = "糕点类";
+"Cookies & Candies" = "饼干类";
+"Desserts" = "甜食";
+
+"5 mins" = "5分钟";
+"10 mins" = "10分钟";
+"15 mins" = "15分钟";
+"30 mins" = "30分钟";
+"45 mins" = "45分钟";
+"1 hour" = "1小时";
+"1 h 15 mins" = "1小时15分种";
+"1 h 30 mins" = "1小时30分钟";
+"1 h 45 mins" = "1小时45分钟";
+"2 hours" = "2 小时";
+"2 h 30 mins" = "2小时30分钟";
+"3 hours" = "3小时";
+"3 h 30 mins" = "3小时30分钟";
+"4 hours" = "4小时";
+"5 hours" = "5小时";
+"6 hours" = "6小时";
+"8 hours" = "8小时";
+"12 hours" = "12小时";
+"16 hours" = "16小时";
+"24 hours" = "24小时";
+"48 hours" = "48小时";
+"72 hours" = "72小时";
+
+"1 serving" = "1份";
+"2 servings" = "2份";
+"3 servings" = "3份";
+"4 servings" = "4份";
+"6 servings" = "6份";
+"9 servings" = "9份";
+"12 servings" = "12份";
+"16 servings" = "16份";
+"24 servings" = "24份";
+"36 servings" = "36份";
+
+"No Recommended Beverage" = "不建议配酒";
+"Water" = "水";
+"Soda" = "汽水";
+"Tonic Water" = "通宁水";
+"Soft Drink" = "带汽饮料";
+"Juice" = "果汁";
+"Nectar" = "原果汁";
+"Milk" = "牛奶";
+"Coffee" = "咖啡";
+"Tea" = "茶";
+"Cider" = "苹果酒";
+"Wine" = "葡萄酒";
+"Brandy" = "白兰地";
+"Beer" = "啤酒";
+"Whisky" = "威士忌";
+"Other" = "其它";
+
+"Success!" = "您的订单已发出！";
+"Your order is processing, you will get payment email in 24 hours" = "24小时内您将受到付款单";
+
+"Need to login with Facebook for using publishing or searching recipes" = "需要使用Facebook登录才能使用此功能";
+"Internet is required for publishing or searching recipes" = "使用此功能需要使用互联网";
+"Search by Name" = "按名称搜索";
+"Provide the Author Name!" = "输入作者的姓名！";
+"Provide the E-Mail for payment!" = "输入电子邮箱发送付款！";
+"Name is required for shipping!" = "名字要求发货！";
+"Address is required for shipping!" = "地址是必需的发货！";
+"City is required for shipping!" = "城市需要提供！";
+"ZIP code is required for shipping!" = "该指数在送！";
+"Country is required for shipping!" = "该国需要派送！";
